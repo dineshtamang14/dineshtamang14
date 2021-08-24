@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dineshtamang14
-- 👀 I’m interested in ...AWS,Python, HTML, CSS, JavaScript, Linux, Flutter.
-- 🌱 I’m currently learning ...Core Python, java
+- 👀 I’m interested in ...AWS Solution Architect,Python, MERAN Stack, JavaScript, Linux.
+- 🌱 I’m currently learning ...Core Python, c++.
 - 💞️ I’m looking to collaborate on ...Python GUI project.
-- 📫 How to reach me ... dineshtamang7263@outlook.com
+- 📫 How to reach me ... dineshtamang1434@gmail.com
 
 <!---
 dineshtamang14/dineshtamang14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
