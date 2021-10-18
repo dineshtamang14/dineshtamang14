@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dineshtamang14
-- 👀 I’m interested in ...AWS Solution Architect,Python, MERAN Stack, JavaScript, Linux.
+- 👀 I’m interested in ...AWS Solution Architect,Python, MERN Stack, JavaScript, Linux.
 - 🌱 I’m currently learning ...Core Python, c++.
 - 💞️ I’m looking to collaborate on ...Python GUI project.
 - 📫 How to reach me ....https://bit.ly/38fxaFu
