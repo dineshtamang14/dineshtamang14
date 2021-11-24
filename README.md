@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, GCP.**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3wTaJ4n](https://bit.ly/3wTaJ4n)
+- 👨‍💻 All of my projects are available at [https://bit.ly/3wTaJ4n](https://dineshtamang.netlify.app)
 
 - 💬 Ask me about **python, react, and linux**
 
