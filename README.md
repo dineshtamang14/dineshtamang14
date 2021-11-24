@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dineshtamang7263@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3qDoh2M](https://bit.ly/3qDoh2M)
+- 📄 Know about my experiences [https://bit.ly/3qDoh2M](https://dineshtamang.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
