@@ -26,7 +26,9 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://dinesh-blog.herokuapp.com/
+- Personal website: https://dineshtamang.tech
+- portfolio website: https://portfolio.dineshtamang.tech
+- blog: https://dinesh-blog.herokuapp.com
 - Notes of AWS Solution Architecture - Associate: https://github.com/dineshtamang14/aws-certs-cheatsheet
 
 
