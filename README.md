@@ -1,28 +1,59 @@
-<h1 align="center">Hi 👋, I'm Dinesh Tamang</h1>
-<h3 align="center">A passionate DevOps Engineer and AWS Solutions Architect</h3>
+# Hello there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshtamang14&label=Profile%20views&color=0e75b6&style=flat" alt="dineshtamang14" /> </p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshtamang14" alt="dineshtamang14" /></a> </p>
 
-- 🌱 I’m currently learning **Django, GCP.**
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/3wTaJ4n](https://dineshtamang.netlify.app)
 
-- 💬 Ask me about **python, react, and linux**
+class SoftwareEngineer:
 
-- 📫 How to reach me **dineshtamang7263@gmail.com**
+    def __init__(self):
+        self.name = "Dinesh Tamang"
+        self.role = "Backend Engineer"
+        self.language_spoken = ["hin_IND", "en_US"]
 
-- 📄 Know about my experiences [https://bit.ly/3qDoh2M](https://dineshtamang.netlify.app)
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dineshtamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dineshtamang" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dineshtamang14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinesh-tamang-4264b5176" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dineshtamang14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dineshtamang14" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dinesh960" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dinesh960" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dineshtamang7263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dineshtamang7263" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dineshtamang14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dineshtamang14" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## 📝 Blogs
+
+- Personal website and blog: https://dinesh-blog.herokuapp.com/
+- Notes of AWS Solution Architecture - Associate: https://github.com/dineshtamang14/aws-certs-cheatsheet
+
+
+## 🔧 Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dineshtamang14&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/dineshtamang14/nextjs-typescript-pokemon-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dineshtamang14&repo=nextjs-typescript-pokemon-project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="nextjs-typescript-pokemon-project" />
+</a>
+
+<a href="https://github.com/dineshtamang14/Rent_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dineshtamang14&repo=Rent_Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Rent_Project" />
+</a>
