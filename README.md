@@ -9,18 +9,19 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class BackendEngineer:
 
     def __init__(self):
         self.name = "Dinesh Tamang"
         self.role = "Backend Engineer"
+        self.email = "dineshtamang7263@gmail.com"
         self.language_spoken = ["hin_IND", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = BackendEngineer()
 me.say_hi()
 ```
 
@@ -29,6 +30,7 @@ me.say_hi()
 - Personal website: https://dineshtamang.tech
 - portfolio website: https://portfolio.dineshtamang.tech
 - blog: https://dinesh-blog.herokuapp.com
+- connect: https://www.linkedin.com/in/dineshtamang14
 - Notes of AWS Solution Architecture - Associate: https://github.com/dineshtamang14/aws-certs-cheatsheet
 
 
