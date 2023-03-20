@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dinesh Tamang</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshtamang14&label=Profile%20views&color=0e75b6&style=flat" alt="dineshtamang14" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dineshtamang14" alt="dineshtamang14" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<img align="right" alt="Coding" width="500" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
 
 - 🔭 I’m currently working on [Movies Streaming Website](https://github.com/dineshtamang14/Movies_Streaming)
 
