@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Tamang</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h3 align="center">A passionate Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshtamang14&label=Profile%20views&color=0e75b6&style=flat" alt="dineshtamang14" /> </p>
 
